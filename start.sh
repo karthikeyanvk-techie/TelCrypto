@@ -1,1 +1,1 @@
-python3 clickbotsNonstopv6.py
+python2 clickbotsNonstopv6.py
